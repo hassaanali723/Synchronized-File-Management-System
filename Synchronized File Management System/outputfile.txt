@@ -1,0 +1,7 @@
+File Name: HAM.txt  Size of node occupying:18 bytes
+Memory Consumed:  18
+Memory alloted by user:  100
+Total Size:  10000
+Total number of nodes :  100
+Remaining Divisions:  99
+Remaining Size :  9900
